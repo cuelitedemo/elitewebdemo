@@ -1,5 +1,5 @@
-// updated the code and publish to github again
+// updated the code and publish to github again <br>
 git add . <br>
-git commit -m “comment”
-git push origin main
-npm run deploy
+git commit -m “comment” <br>
+git push origin main <br>
+npm run deploy <br>
